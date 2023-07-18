@@ -12,6 +12,7 @@ export const reducer = (state: State, action: Action) => {
   const { type } = action
   switch (type) {
     case 'EXCHANGE_LANGUAGE': {
+      if (state.fromLanguage === 'auto') return state
       return {
         ...state,
         fromLanguage: state.toLanguage,
