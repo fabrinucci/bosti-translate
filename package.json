@@ -1,8 +1,15 @@
 {
   "name": "bosti-translate",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1 ",
   "type": "module",
+  "author": "Fabrizio Nucci",
+  "homepage": "https://github.com/fabrinucci/bosti-translate",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrinucci/bosti-translate.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
