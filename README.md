@@ -1,4 +1,4 @@
-![Imagen del proyecto](https://github.com/fabrinucci/bosti-translate/blob/main/public/home.png)
+![Project home](https://github.com/fabrinucci/bosti-translate/blob/main/public/home.png)
 
 <h1 align="center">Welcome to Bosti Translate 👋</h1>
 <p>
